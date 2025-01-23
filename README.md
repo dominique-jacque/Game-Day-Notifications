@@ -30,6 +30,9 @@ Game Day Notifications is an alert system that sends real-time MLS game day scor
 ## Technical Architecture
   ![Screenshot 2025-01-22 205003](https://github.com/user-attachments/assets/c3094faf-f507-490c-bd07-6ea74459eb40)
 
+## Examples
+![Screenshot 2025-01-22 205058](https://github.com/user-attachments/assets/b30e90e1-6524-41ef-85b6-3d75e0260a48)
+
 ## Setup Instructions
 
 ### Clone the Repository
