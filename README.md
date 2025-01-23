@@ -8,14 +8,15 @@ Game Day Notifications is an alert system that sends real-time MLS game day scor
 - Designed with security in mind, following the principle of least privilege for IAM roles.
 
 ## Technologies 
-**Cloud Provider:** AWS
-**Core Services:** SNS, Lambda, EventBridge
-**External API:** NBA Game API (SportsData.io)
-**Programming Language:** Python 3.x
-**IAM Security:**
+- **Cloud Provider:** AWS
+- **Core Services:** SNS, Lambda, EventBridge
+- **External API:** NBA Game API (SportsData.io)
+- **Programming Language:** Python 3.x
+- **IAM Security:**
   - Least privilege policies for Lambda, SNS, and EventBridge.
 
 ## Project Structure
+
   game-day-notifications/
   ├── src/
   │   ├── gd_notifications.py          # Main Lambda function code
